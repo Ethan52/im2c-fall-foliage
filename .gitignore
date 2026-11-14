@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# custom - avoid large satellite files 
+data/raw/
+data/external/
+data/interim/
+data/processed/
+*.tif
+*.tiff
+*.hdf
+*.nc
+*.zip
+.env
+.DS_Store
