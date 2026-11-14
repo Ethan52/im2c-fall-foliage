@@ -1,0 +1,4 @@
+site_id,site_name,latitude,longitude,easting_m,northing_m,analysis_crs
+fort_kent,Fort Kent,47.258600,-68.589600,531050.0,5233983.7,EPSG:26919
+rangeley,Rangeley,44.968700,-70.646000,370199.4,4980791.2,EPSG:26919
+acadia_bar_harbor,Acadia / Bar Harbor,44.387600,-68.203900,563409.7,4915232.3,EPSG:26919

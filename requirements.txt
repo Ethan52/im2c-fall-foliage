@@ -1,0 +1,13 @@
+# add version, notes
+
+# projected usage for now
+
+numpy
+pandas
+geopandas
+rasterio
+xarray
+matplotlib
+scikit-learn
+statsmodels
+jupyter

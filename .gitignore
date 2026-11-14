@@ -219,9 +219,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# custom - avoid large satellite files 
+# Large downloaded/geospatial data
 data/raw/
-data/external/
 data/interim/
 data/processed/
 *.tif
@@ -229,5 +228,13 @@ data/processed/
 *.hdf
 *.nc
 *.zip
+
+# Local files
 .env
 .DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Generated model artifacts
+*.pkl
+*.joblib
