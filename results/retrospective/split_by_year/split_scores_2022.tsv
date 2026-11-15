@@ -1,0 +1,5 @@
+year	year_role	cells	model	onset_bias_days	onset_mae_days	n_cells_scored	brownness_rmse	n_brownness_obs
+2022	train	test	lr	2.5895	3.5249	10972	0.1552	130434
+2022	train	train	lr	2.5217	3.4931	43884	0.1560	520404
+2022	train	test	gam	0.5495	3.1414	10972	0.1381	130434
+2022	train	train	gam	0.4327	3.1140	43884	0.1386	520404

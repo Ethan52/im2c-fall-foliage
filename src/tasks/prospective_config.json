@@ -1,0 +1,25 @@
+{
+  "weather": {
+    "comment": "Weather forecast settings for src/tasks/prospective_weather.py, see D20 to D22 in references/project_decisions.md",
+    "issue_times": [
+      "2024-08-01T00", "2024-08-04T00", "2024-08-12T00", "2024-08-20T00", "2024-08-28T00", "2024-09-05T00",
+      "2024-09-13T00", "2024-09-21T00", "2024-09-29T00", "2024-10-07T00", "2024-10-15T00", "2024-10-23T00",
+      "2024-10-31T00", "2024-11-08T00", "2024-11-16T00", "2024-11-24T00",
+      "2025-08-01T00", "2025-08-05T00", "2025-08-13T00", "2025-08-21T00", "2025-08-29T00", "2025-09-06T00",
+      "2025-09-14T00", "2025-09-22T00", "2025-09-30T00", "2025-10-08T00", "2025-10-16T00", "2025-10-24T00",
+      "2025-11-01T00", "2025-11-09T00", "2025-11-17T00", "2025-11-25T00",
+      "2026-08-01T00"
+    ],
+    "members": 10,
+    "handoff_days": 15,
+    "corrected_names": ["air_temperature_0", "air_temperature_1", "specific_total_water_0"],
+    "fit_years": [2001, 2023],
+    "sst_climatology_years": [2001, 2022]
+  },
+  "foliage": {
+    "comment": "Prospective foliage settings for src/tasks/prospective.py, see D6, D21 and D26; issue dates are the weather issue_times of these years",
+    "years": [2024, 2025],
+    "mappings": ["delta", "linear"],
+    "forecast_dir": "data/processed/weather_forecast/aifs_ens_ace2"
+  }
+}

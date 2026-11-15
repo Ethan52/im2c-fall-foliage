@@ -1,0 +1,5 @@
+year	year_role	cells	model	onset_bias_days	onset_mae_days	n_cells_scored	brownness_rmse	n_brownness_obs
+2010	train	test	lr	4.7888	6.4018	10978	0.1566	129580
+2010	train	train	lr	4.8529	6.4303	43880	0.1567	516972
+2010	train	test	gam	0.6648	4.1425	10978	0.1294	129580
+2010	train	train	gam	0.6712	4.1343	43880	0.1291	516972

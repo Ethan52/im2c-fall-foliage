@@ -1,0 +1,13 @@
+year	model	site	cell_id	predicted_onset_doy	observed_onset_doy
+2024	lr	fort_kent	650	279.95	271.07
+2024	lr	rangeley	51980	282.19	269.58
+2024	lr	acadia_bar_harbor	70796	284.88	298.87
+2024	gam	fort_kent	650	277.43	271.07
+2024	gam	rangeley	51980	276.86	269.58
+2024	gam	acadia_bar_harbor	70796	288.44	298.87
+2025	lr	fort_kent	650	281.34	269.19
+2025	lr	rangeley	51980	282.17	
+2025	lr	acadia_bar_harbor	70796	285.02	299.69
+2025	gam	fort_kent	650	272.86	269.19
+2025	gam	rangeley	51980	274.49	
+2025	gam	acadia_bar_harbor	70796	285.56	299.69

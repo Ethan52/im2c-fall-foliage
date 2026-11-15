@@ -1,0 +1,769 @@
+year	issue_date	mapping	model	variant	site	forecast_p10	forecast_median	forecast_p90	observed_onset_doy
+2024	2024-08-01	delta	lr	fit	fort_kent	277.83	279.00	280.98	271.07
+2024	2024-08-01	delta	lr	fit	rangeley	278.91	281.02	282.39	269.58
+2024	2024-08-01	delta	lr	fit	acadia_bar_harbor	285.26	286.16	287.24	298.87
+2024	2024-08-01	delta	lr	assimilated	fort_kent	277.83	279.00	280.98	271.07
+2024	2024-08-01	delta	lr	assimilated	rangeley	278.91	281.02	282.39	269.58
+2024	2024-08-01	delta	lr	assimilated	acadia_bar_harbor	285.26	286.16	287.24	298.87
+2024	2024-08-01	delta	gam	fit	fort_kent	275.51	276.58	278.58	271.07
+2024	2024-08-01	delta	gam	fit	rangeley	276.20	277.38	281.16	269.58
+2024	2024-08-01	delta	gam	fit	acadia_bar_harbor	287.58	289.33	290.51	298.87
+2024	2024-08-01	delta	gam	assimilated	fort_kent	275.51	276.58	278.58	271.07
+2024	2024-08-01	delta	gam	assimilated	rangeley	276.20	277.38	281.16	269.58
+2024	2024-08-01	delta	gam	assimilated	acadia_bar_harbor	287.58	289.33	290.51	298.87
+2024	2024-08-01	linear	lr	fit	fort_kent	277.77	278.18	280.07	271.07
+2024	2024-08-01	linear	lr	fit	rangeley	279.42	280.32	281.67	269.58
+2024	2024-08-01	linear	lr	fit	acadia_bar_harbor	285.23	286.00	286.59	298.87
+2024	2024-08-01	linear	lr	assimilated	fort_kent	277.77	278.18	280.07	271.07
+2024	2024-08-01	linear	lr	assimilated	rangeley	279.42	280.32	281.67	269.58
+2024	2024-08-01	linear	lr	assimilated	acadia_bar_harbor	285.23	286.00	286.59	298.87
+2024	2024-08-01	linear	gam	fit	fort_kent	275.51	276.42	278.65	271.07
+2024	2024-08-01	linear	gam	fit	rangeley	275.83	276.83	280.28	269.58
+2024	2024-08-01	linear	gam	fit	acadia_bar_harbor	288.51	290.03	292.00	298.87
+2024	2024-08-01	linear	gam	assimilated	fort_kent	275.51	276.42	278.65	271.07
+2024	2024-08-01	linear	gam	assimilated	rangeley	275.83	276.83	280.28	269.58
+2024	2024-08-01	linear	gam	assimilated	acadia_bar_harbor	288.51	290.03	292.00	298.87
+2024	2024-08-04	delta	lr	fit	fort_kent	277.81	279.41	281.39	271.07
+2024	2024-08-04	delta	lr	fit	rangeley	280.47	281.78	284.15	269.58
+2024	2024-08-04	delta	lr	fit	acadia_bar_harbor	286.66	287.24	288.15	298.87
+2024	2024-08-04	delta	lr	assimilated	fort_kent	277.81	279.41	281.40	271.07
+2024	2024-08-04	delta	lr	assimilated	rangeley	280.46	281.78	284.15	269.58
+2024	2024-08-04	delta	lr	assimilated	acadia_bar_harbor	286.66	287.24	288.15	298.87
+2024	2024-08-04	delta	gam	fit	fort_kent	275.85	277.21	278.46	271.07
+2024	2024-08-04	delta	gam	fit	rangeley	276.66	277.94	279.50	269.58
+2024	2024-08-04	delta	gam	fit	acadia_bar_harbor	291.97	292.93	294.24	298.87
+2024	2024-08-04	delta	gam	assimilated	fort_kent	275.85	277.21	278.46	271.07
+2024	2024-08-04	delta	gam	assimilated	rangeley	276.66	277.93	279.50	269.58
+2024	2024-08-04	delta	gam	assimilated	acadia_bar_harbor	291.96	292.93	294.24	298.87
+2024	2024-08-04	linear	lr	fit	fort_kent	277.74	278.88	279.93	271.07
+2024	2024-08-04	linear	lr	fit	rangeley	280.05	281.19	282.58	269.58
+2024	2024-08-04	linear	lr	fit	acadia_bar_harbor	286.64	287.08	287.71	298.87
+2024	2024-08-04	linear	lr	assimilated	fort_kent	277.74	278.88	279.93	271.07
+2024	2024-08-04	linear	lr	assimilated	rangeley	280.04	281.19	282.58	269.58
+2024	2024-08-04	linear	lr	assimilated	acadia_bar_harbor	286.64	287.08	287.71	298.87
+2024	2024-08-04	linear	gam	fit	fort_kent	275.89	277.36	278.40	271.07
+2024	2024-08-04	linear	gam	fit	rangeley	276.23	277.60	278.88	269.58
+2024	2024-08-04	linear	gam	fit	acadia_bar_harbor	293.32	294.78	296.00	298.87
+2024	2024-08-04	linear	gam	assimilated	fort_kent	275.89	277.36	278.40	271.07
+2024	2024-08-04	linear	gam	assimilated	rangeley	276.23	277.60	278.88	269.58
+2024	2024-08-04	linear	gam	assimilated	acadia_bar_harbor	293.32	294.78	296.00	298.87
+2024	2024-08-12	delta	lr	fit	fort_kent	277.55	279.57	280.77	271.07
+2024	2024-08-12	delta	lr	fit	rangeley	279.34	281.07	281.85	269.58
+2024	2024-08-12	delta	lr	fit	acadia_bar_harbor	285.83	287.16	287.91	298.87
+2024	2024-08-12	delta	lr	assimilated	fort_kent	277.57	279.58	280.76	271.07
+2024	2024-08-12	delta	lr	assimilated	rangeley	279.43	281.19	281.90	269.58
+2024	2024-08-12	delta	lr	assimilated	acadia_bar_harbor	285.86	287.16	287.90	298.87
+2024	2024-08-12	delta	gam	fit	fort_kent	276.20	278.23	281.26	271.07
+2024	2024-08-12	delta	gam	fit	rangeley	275.54	277.40	281.21	269.58
+2024	2024-08-12	delta	gam	fit	acadia_bar_harbor	287.22	290.01	292.48	298.87
+2024	2024-08-12	delta	gam	assimilated	fort_kent	276.17	278.23	281.28	271.07
+2024	2024-08-12	delta	gam	assimilated	rangeley	275.59	277.47	281.31	269.58
+2024	2024-08-12	delta	gam	assimilated	acadia_bar_harbor	287.26	290.04	292.51	298.87
+2024	2024-08-12	linear	lr	fit	fort_kent	277.40	278.85	279.85	271.07
+2024	2024-08-12	linear	lr	fit	rangeley	279.27	280.52	281.01	269.58
+2024	2024-08-12	linear	lr	fit	acadia_bar_harbor	285.75	286.71	287.49	298.87
+2024	2024-08-12	linear	lr	assimilated	fort_kent	277.43	278.90	279.86	271.07
+2024	2024-08-12	linear	lr	assimilated	rangeley	279.37	280.62	281.14	269.58
+2024	2024-08-12	linear	lr	assimilated	acadia_bar_harbor	285.78	286.72	287.48	298.87
+2024	2024-08-12	linear	gam	fit	fort_kent	276.16	278.19	281.16	271.07
+2024	2024-08-12	linear	gam	fit	rangeley	275.13	277.04	280.39	269.58
+2024	2024-08-12	linear	gam	fit	acadia_bar_harbor	287.99	290.68	293.60	298.87
+2024	2024-08-12	linear	gam	assimilated	fort_kent	276.12	278.18	281.18	271.07
+2024	2024-08-12	linear	gam	assimilated	rangeley	275.14	277.09	280.46	269.58
+2024	2024-08-12	linear	gam	assimilated	acadia_bar_harbor	288.04	290.71	293.63	298.87
+2024	2024-08-20	delta	lr	fit	fort_kent	276.70	277.90	279.35	271.07
+2024	2024-08-20	delta	lr	fit	rangeley	277.82	280.14	281.59	269.58
+2024	2024-08-20	delta	lr	fit	acadia_bar_harbor	286.45	287.45	288.16	298.87
+2024	2024-08-20	delta	lr	assimilated	fort_kent	276.73	277.95	279.40	271.07
+2024	2024-08-20	delta	lr	assimilated	rangeley	277.89	280.22	281.67	269.58
+2024	2024-08-20	delta	lr	assimilated	acadia_bar_harbor	286.49	287.47	288.17	298.87
+2024	2024-08-20	delta	gam	fit	fort_kent	275.22	276.02	278.56	271.07
+2024	2024-08-20	delta	gam	fit	rangeley	274.93	275.88	279.00	269.58
+2024	2024-08-20	delta	gam	fit	acadia_bar_harbor	288.96	289.54	292.15	298.87
+2024	2024-08-20	delta	gam	assimilated	fort_kent	275.18	276.00	278.54	271.07
+2024	2024-08-20	delta	gam	assimilated	rangeley	274.96	275.91	279.06	269.58
+2024	2024-08-20	delta	gam	assimilated	acadia_bar_harbor	289.07	289.61	292.20	298.87
+2024	2024-08-20	linear	lr	fit	fort_kent	276.82	277.62	278.64	271.07
+2024	2024-08-20	linear	lr	fit	rangeley	277.97	279.52	280.57	269.58
+2024	2024-08-20	linear	lr	fit	acadia_bar_harbor	286.60	287.08	287.69	298.87
+2024	2024-08-20	linear	lr	assimilated	fort_kent	276.86	277.66	278.70	271.07
+2024	2024-08-20	linear	lr	assimilated	rangeley	278.11	279.62	280.66	269.58
+2024	2024-08-20	linear	lr	assimilated	acadia_bar_harbor	286.63	287.10	287.71	298.87
+2024	2024-08-20	linear	gam	fit	fort_kent	275.27	276.01	278.51	271.07
+2024	2024-08-20	linear	gam	fit	rangeley	274.72	275.56	277.05	269.58
+2024	2024-08-20	linear	gam	fit	acadia_bar_harbor	291.03	291.56	294.04	298.87
+2024	2024-08-20	linear	gam	assimilated	fort_kent	275.21	275.99	278.49	271.07
+2024	2024-08-20	linear	gam	assimilated	rangeley	274.74	275.59	277.08	269.58
+2024	2024-08-20	linear	gam	assimilated	acadia_bar_harbor	291.07	291.60	294.08	298.87
+2024	2024-08-28	delta	lr	fit	fort_kent	278.23	279.07	281.22	271.07
+2024	2024-08-28	delta	lr	fit	rangeley	279.94	280.85	282.19	269.58
+2024	2024-08-28	delta	lr	fit	acadia_bar_harbor	285.24	286.43	287.69	298.87
+2024	2024-08-28	delta	lr	assimilated	fort_kent	278.27	279.09	281.22	271.07
+2024	2024-08-28	delta	lr	assimilated	rangeley	279.98	280.89	282.21	269.58
+2024	2024-08-28	delta	lr	assimilated	acadia_bar_harbor	285.30	286.49	287.73	298.87
+2024	2024-08-28	delta	gam	fit	fort_kent	275.57	277.55	278.58	271.07
+2024	2024-08-28	delta	gam	fit	rangeley	275.42	276.91	278.00	269.58
+2024	2024-08-28	delta	gam	fit	acadia_bar_harbor	287.27	288.88	291.88	298.87
+2024	2024-08-28	delta	gam	assimilated	fort_kent	275.55	277.56	278.56	271.07
+2024	2024-08-28	delta	gam	assimilated	rangeley	275.46	276.95	278.05	269.58
+2024	2024-08-28	delta	gam	assimilated	acadia_bar_harbor	287.27	288.93	291.91	298.87
+2024	2024-08-28	linear	lr	fit	fort_kent	277.85	278.40	279.97	271.07
+2024	2024-08-28	linear	lr	fit	rangeley	279.46	280.30	281.57	269.58
+2024	2024-08-28	linear	lr	fit	acadia_bar_harbor	285.15	286.04	286.78	298.87
+2024	2024-08-28	linear	lr	assimilated	fort_kent	277.90	278.44	280.00	271.07
+2024	2024-08-28	linear	lr	assimilated	rangeley	279.52	280.34	281.60	269.58
+2024	2024-08-28	linear	lr	assimilated	acadia_bar_harbor	285.25	286.09	286.84	298.87
+2024	2024-08-28	linear	gam	fit	fort_kent	275.65	277.61	278.71	271.07
+2024	2024-08-28	linear	gam	fit	rangeley	275.40	276.58	277.61	269.58
+2024	2024-08-28	linear	gam	fit	acadia_bar_harbor	288.83	290.83	293.01	298.87
+2024	2024-08-28	linear	gam	assimilated	fort_kent	275.62	277.60	278.68	271.07
+2024	2024-08-28	linear	gam	assimilated	rangeley	275.42	276.61	277.65	269.58
+2024	2024-08-28	linear	gam	assimilated	acadia_bar_harbor	288.84	290.87	293.06	298.87
+2024	2024-09-05	delta	lr	fit	fort_kent	278.31	278.75	281.35	271.07
+2024	2024-09-05	delta	lr	fit	rangeley	279.82	280.48	282.94	269.58
+2024	2024-09-05	delta	lr	fit	acadia_bar_harbor	285.51	286.09	287.57	298.87
+2024	2024-09-05	delta	lr	assimilated	fort_kent	278.36	278.80	281.43	271.07
+2024	2024-09-05	delta	lr	assimilated	rangeley	279.95	280.58	283.03	269.58
+2024	2024-09-05	delta	lr	assimilated	acadia_bar_harbor	285.57	286.15	287.62	298.87
+2024	2024-09-05	delta	gam	fit	fort_kent	276.78	277.60	279.18	271.07
+2024	2024-09-05	delta	gam	fit	rangeley	276.29	277.75	278.97	269.58
+2024	2024-09-05	delta	gam	fit	acadia_bar_harbor	286.45	287.38	290.54	298.87
+2024	2024-09-05	delta	gam	assimilated	fort_kent	276.79	277.61	279.17	271.07
+2024	2024-09-05	delta	gam	assimilated	rangeley	276.33	277.82	279.09	269.58
+2024	2024-09-05	delta	gam	assimilated	acadia_bar_harbor	286.57	287.47	290.56	298.87
+2024	2024-09-05	linear	lr	fit	fort_kent	277.90	278.25	279.39	271.07
+2024	2024-09-05	linear	lr	fit	rangeley	279.24	280.22	281.59	269.58
+2024	2024-09-05	linear	lr	fit	acadia_bar_harbor	285.20	286.06	286.87	298.87
+2024	2024-09-05	linear	lr	assimilated	fort_kent	277.95	278.31	279.45	271.07
+2024	2024-09-05	linear	lr	assimilated	rangeley	279.39	280.32	281.78	269.58
+2024	2024-09-05	linear	lr	assimilated	acadia_bar_harbor	285.27	286.14	286.92	298.87
+2024	2024-09-05	linear	gam	fit	fort_kent	277.07	277.70	279.29	271.07
+2024	2024-09-05	linear	gam	fit	rangeley	276.28	277.74	278.95	269.58
+2024	2024-09-05	linear	gam	fit	acadia_bar_harbor	289.16	290.77	293.28	298.87
+2024	2024-09-05	linear	gam	assimilated	fort_kent	277.02	277.69	279.27	271.07
+2024	2024-09-05	linear	gam	assimilated	rangeley	276.31	277.79	279.04	269.58
+2024	2024-09-05	linear	gam	assimilated	acadia_bar_harbor	289.23	290.86	293.36	298.87
+2024	2024-09-13	delta	lr	fit	fort_kent	280.16	281.57	282.14	271.07
+2024	2024-09-13	delta	lr	fit	rangeley	280.99	282.75	284.05	269.58
+2024	2024-09-13	delta	lr	fit	acadia_bar_harbor	286.32	286.70	287.38	298.87
+2024	2024-09-13	delta	lr	assimilated	fort_kent	280.22	281.66	282.20	271.07
+2024	2024-09-13	delta	lr	assimilated	rangeley	281.09	282.86	284.14	269.58
+2024	2024-09-13	delta	lr	assimilated	acadia_bar_harbor	286.41	286.79	287.48	298.87
+2024	2024-09-13	delta	gam	fit	fort_kent	277.65	279.03	279.99	271.07
+2024	2024-09-13	delta	gam	fit	rangeley	278.09	278.96	280.47	269.58
+2024	2024-09-13	delta	gam	fit	acadia_bar_harbor	285.62	287.16	290.33	298.87
+2024	2024-09-13	delta	gam	assimilated	fort_kent	277.67	279.06	280.06	271.07
+2024	2024-09-13	delta	gam	assimilated	rangeley	278.14	279.06	280.58	269.58
+2024	2024-09-13	delta	gam	assimilated	acadia_bar_harbor	285.74	287.22	290.40	298.87
+2024	2024-09-13	linear	lr	fit	fort_kent	279.25	280.45	280.98	271.07
+2024	2024-09-13	linear	lr	fit	rangeley	280.73	282.03	282.95	269.58
+2024	2024-09-13	linear	lr	fit	acadia_bar_harbor	285.90	286.19	286.78	298.87
+2024	2024-09-13	linear	lr	assimilated	fort_kent	279.31	280.52	281.06	271.07
+2024	2024-09-13	linear	lr	assimilated	rangeley	280.82	282.14	283.05	269.58
+2024	2024-09-13	linear	lr	assimilated	acadia_bar_harbor	286.01	286.30	286.93	298.87
+2024	2024-09-13	linear	gam	fit	fort_kent	277.85	278.99	280.01	271.07
+2024	2024-09-13	linear	gam	fit	rangeley	277.89	278.93	280.15	269.58
+2024	2024-09-13	linear	gam	fit	acadia_bar_harbor	289.35	291.42	294.09	298.87
+2024	2024-09-13	linear	gam	assimilated	fort_kent	277.84	278.98	280.02	271.07
+2024	2024-09-13	linear	gam	assimilated	rangeley	277.92	279.01	280.25	269.58
+2024	2024-09-13	linear	gam	assimilated	acadia_bar_harbor	289.44	291.50	294.17	298.87
+2024	2024-09-21	delta	lr	fit	fort_kent	278.90	279.85	280.52	271.07
+2024	2024-09-21	delta	lr	fit	rangeley	280.71	281.73	282.53	269.58
+2024	2024-09-21	delta	lr	fit	acadia_bar_harbor	285.12	285.67	286.97	298.87
+2024	2024-09-21	delta	lr	assimilated	fort_kent	278.94	279.92	280.61	271.07
+2024	2024-09-21	delta	lr	assimilated	rangeley	280.83	281.83	282.62	269.58
+2024	2024-09-21	delta	lr	assimilated	acadia_bar_harbor	285.25	285.80	287.09	298.87
+2024	2024-09-21	delta	gam	fit	fort_kent	277.72	278.29	279.13	271.07
+2024	2024-09-21	delta	gam	fit	rangeley	276.85	277.61	278.03	269.58
+2024	2024-09-21	delta	gam	fit	acadia_bar_harbor	286.98	289.59	292.23	298.87
+2024	2024-09-21	delta	gam	assimilated	fort_kent	277.68	278.27	279.09	271.07
+2024	2024-09-21	delta	gam	assimilated	rangeley	276.88	277.64	278.08	269.58
+2024	2024-09-21	delta	gam	assimilated	acadia_bar_harbor	286.99	289.54	292.29	298.87
+2024	2024-09-21	linear	lr	fit	fort_kent	279.37	279.84	280.42	271.07
+2024	2024-09-21	linear	lr	fit	rangeley	281.48	282.01	282.61	269.58
+2024	2024-09-21	linear	lr	fit	acadia_bar_harbor	285.45	285.74	286.55	298.87
+2024	2024-09-21	linear	lr	assimilated	fort_kent	279.44	279.90	280.52	271.07
+2024	2024-09-21	linear	lr	assimilated	rangeley	281.59	282.10	282.71	269.58
+2024	2024-09-21	linear	lr	assimilated	acadia_bar_harbor	285.60	285.87	286.68	298.87
+2024	2024-09-21	linear	gam	fit	fort_kent	277.68	278.27	278.94	271.07
+2024	2024-09-21	linear	gam	fit	rangeley	276.77	277.41	277.77	269.58
+2024	2024-09-21	linear	gam	fit	acadia_bar_harbor	291.61	292.70	294.06	298.87
+2024	2024-09-21	linear	gam	assimilated	fort_kent	277.64	278.24	278.89	271.07
+2024	2024-09-21	linear	gam	assimilated	rangeley	276.81	277.46	277.82	269.58
+2024	2024-09-21	linear	gam	assimilated	acadia_bar_harbor	291.61	292.71	294.10	298.87
+2024	2024-09-29	delta	lr	fit	fort_kent	280.24	280.50	280.94	271.07
+2024	2024-09-29	delta	lr	fit	rangeley	281.83	282.38	282.92	269.58
+2024	2024-09-29	delta	lr	fit	acadia_bar_harbor	286.02	286.29	286.72	298.87
+2024	2024-09-29	delta	lr	assimilated	fort_kent	280.32	280.58	281.01	271.07
+2024	2024-09-29	delta	lr	assimilated	rangeley	281.96	282.50	283.04	269.58
+2024	2024-09-29	delta	lr	assimilated	acadia_bar_harbor	286.18	286.43	286.87	298.87
+2024	2024-09-29	delta	gam	fit	fort_kent	277.56	277.71	278.02	271.07
+2024	2024-09-29	delta	gam	fit	rangeley	276.99	277.07	277.36	269.58
+2024	2024-09-29	delta	gam	fit	acadia_bar_harbor	285.87	286.86	287.96	298.87
+2024	2024-09-29	delta	gam	assimilated	fort_kent	277.56	277.71	278.02	271.07
+2024	2024-09-29	delta	gam	assimilated	rangeley	277.10	277.19	277.48	269.58
+2024	2024-09-29	delta	gam	assimilated	acadia_bar_harbor	285.92	286.89	287.97	298.87
+2024	2024-09-29	linear	lr	fit	fort_kent	280.15	280.28	280.60	271.07
+2024	2024-09-29	linear	lr	fit	rangeley	281.85	282.30	282.69	269.58
+2024	2024-09-29	linear	lr	fit	acadia_bar_harbor	285.85	286.02	286.31	298.87
+2024	2024-09-29	linear	lr	assimilated	fort_kent	280.23	280.36	280.68	271.07
+2024	2024-09-29	linear	lr	assimilated	rangeley	282.01	282.41	282.80	269.58
+2024	2024-09-29	linear	lr	assimilated	acadia_bar_harbor	286.00	286.17	286.47	298.87
+2024	2024-09-29	linear	gam	fit	fort_kent	277.57	277.77	278.02	271.07
+2024	2024-09-29	linear	gam	fit	rangeley	276.97	277.03	277.31	269.58
+2024	2024-09-29	linear	gam	fit	acadia_bar_harbor	287.39	289.41	291.17	298.87
+2024	2024-09-29	linear	gam	assimilated	fort_kent	277.57	277.76	277.99	271.07
+2024	2024-09-29	linear	gam	assimilated	rangeley	277.09	277.15	277.43	269.58
+2024	2024-09-29	linear	gam	assimilated	acadia_bar_harbor	287.47	289.39	291.16	298.87
+2024	2024-10-07	delta	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	delta	lr	fit	rangeley	282.46	282.53	282.66	269.58
+2024	2024-10-07	delta	lr	fit	acadia_bar_harbor	285.42	285.58	285.69	298.87
+2024	2024-10-07	delta	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	delta	lr	assimilated	rangeley	282.40	282.46	282.58	269.58
+2024	2024-10-07	delta	lr	assimilated	acadia_bar_harbor	285.43	285.59	285.70	298.87
+2024	2024-10-07	delta	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	delta	gam	fit	rangeley	270.36	270.43	270.50	269.58
+2024	2024-10-07	delta	gam	fit	acadia_bar_harbor	286.70	286.91	288.72	298.87
+2024	2024-10-07	delta	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	delta	gam	assimilated	rangeley	269.82	269.90	269.97	269.58
+2024	2024-10-07	delta	gam	assimilated	acadia_bar_harbor	286.39	286.58	287.14	298.87
+2024	2024-10-07	linear	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	linear	lr	fit	rangeley	282.57	282.61	282.71	269.58
+2024	2024-10-07	linear	lr	fit	acadia_bar_harbor	285.51	285.62	285.69	298.87
+2024	2024-10-07	linear	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	linear	lr	assimilated	rangeley	282.50	282.54	282.64	269.58
+2024	2024-10-07	linear	lr	assimilated	acadia_bar_harbor	285.52	285.63	285.70	298.87
+2024	2024-10-07	linear	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	linear	gam	fit	rangeley	270.32	270.39	270.45	269.58
+2024	2024-10-07	linear	gam	fit	acadia_bar_harbor	287.42	288.46	289.62	298.87
+2024	2024-10-07	linear	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-07	linear	gam	assimilated	rangeley	269.77	269.85	269.90	269.58
+2024	2024-10-07	linear	gam	assimilated	acadia_bar_harbor	286.83	286.95	289.19	298.87
+2024	2024-10-15	delta	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	delta	lr	fit	rangeley	276.37	276.39	276.43	269.58
+2024	2024-10-15	delta	lr	fit	acadia_bar_harbor	287.21	287.22	287.23	298.87
+2024	2024-10-15	delta	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	delta	lr	assimilated	rangeley	276.33	276.35	276.39	269.58
+2024	2024-10-15	delta	lr	assimilated	acadia_bar_harbor	287.24	287.25	287.26	298.87
+2024	2024-10-15	delta	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	delta	gam	fit	rangeley	268.36	268.38	268.40	269.58
+2024	2024-10-15	delta	gam	fit	acadia_bar_harbor	289.01	289.08	289.10	298.87
+2024	2024-10-15	delta	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	delta	gam	assimilated	rangeley	268.50	268.52	268.54	269.58
+2024	2024-10-15	delta	gam	assimilated	acadia_bar_harbor	289.19	289.26	289.29	298.87
+2024	2024-10-15	linear	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	linear	lr	fit	rangeley	276.43	276.45	276.48	269.58
+2024	2024-10-15	linear	lr	fit	acadia_bar_harbor	287.22	287.23	287.24	298.87
+2024	2024-10-15	linear	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	linear	lr	assimilated	rangeley	276.39	276.41	276.44	269.58
+2024	2024-10-15	linear	lr	assimilated	acadia_bar_harbor	287.25	287.26	287.27	298.87
+2024	2024-10-15	linear	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	linear	gam	fit	rangeley	268.33	268.35	268.37	269.58
+2024	2024-10-15	linear	gam	fit	acadia_bar_harbor	289.06	289.12	289.15	298.87
+2024	2024-10-15	linear	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-15	linear	gam	assimilated	rangeley	268.47	268.49	268.51	269.58
+2024	2024-10-15	linear	gam	assimilated	acadia_bar_harbor	289.24	289.30	289.35	298.87
+2024	2024-10-23	delta	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	delta	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	delta	lr	fit	acadia_bar_harbor	294.99	295.00	295.00	298.87
+2024	2024-10-23	delta	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	delta	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	delta	lr	assimilated	acadia_bar_harbor	294.99	294.99	294.99	298.87
+2024	2024-10-23	delta	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	delta	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	delta	gam	fit	acadia_bar_harbor	294.88	294.88	294.88	298.87
+2024	2024-10-23	delta	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	delta	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	delta	gam	assimilated	acadia_bar_harbor	294.89	294.89	294.90	298.87
+2024	2024-10-23	linear	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	linear	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	linear	lr	fit	acadia_bar_harbor	294.99	295.00	295.00	298.87
+2024	2024-10-23	linear	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	linear	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	linear	lr	assimilated	acadia_bar_harbor	294.99	294.99	294.99	298.87
+2024	2024-10-23	linear	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	linear	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	linear	gam	fit	acadia_bar_harbor	294.91	294.92	294.92	298.87
+2024	2024-10-23	linear	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-23	linear	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-23	linear	gam	assimilated	acadia_bar_harbor	294.92	294.93	294.93	298.87
+2024	2024-10-31	delta	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	delta	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	delta	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-10-31	delta	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	delta	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	delta	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-10-31	delta	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	delta	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	delta	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-10-31	delta	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	delta	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	delta	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-10-31	linear	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	linear	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	linear	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-10-31	linear	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	linear	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	linear	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-10-31	linear	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	linear	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	linear	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-10-31	linear	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-10-31	linear	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-10-31	linear	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	delta	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	delta	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	delta	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	delta	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	delta	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	delta	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	delta	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	delta	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	delta	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	delta	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	delta	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	delta	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	linear	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	linear	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	linear	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	linear	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	linear	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	linear	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	linear	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	linear	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	linear	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-08	linear	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-08	linear	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-08	linear	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	delta	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	delta	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	delta	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	delta	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	delta	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	delta	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	delta	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	delta	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	delta	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	delta	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	delta	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	delta	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	linear	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	linear	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	linear	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	linear	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	linear	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	linear	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	linear	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	linear	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	linear	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-16	linear	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-16	linear	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-16	linear	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	delta	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	delta	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	delta	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	delta	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	delta	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	delta	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	delta	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	delta	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	delta	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	delta	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	delta	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	delta	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	linear	lr	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	linear	lr	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	linear	lr	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	linear	lr	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	linear	lr	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	linear	lr	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	linear	gam	fit	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	linear	gam	fit	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	linear	gam	fit	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2024	2024-11-24	linear	gam	assimilated	fort_kent	271.07	271.07	271.07	271.07
+2024	2024-11-24	linear	gam	assimilated	rangeley	269.58	269.58	269.58	269.58
+2024	2024-11-24	linear	gam	assimilated	acadia_bar_harbor	298.87	298.87	298.87	298.87
+2025	2025-08-01	delta	lr	fit	fort_kent	277.28	278.14	280.03	269.19
+2025	2025-08-01	delta	lr	fit	rangeley	278.85	281.51	282.92	
+2025	2025-08-01	delta	lr	fit	acadia_bar_harbor	283.54	284.88	285.24	299.69
+2025	2025-08-01	delta	lr	assimilated	fort_kent	277.28	278.14	280.03	269.19
+2025	2025-08-01	delta	lr	assimilated	rangeley	278.85	281.51	282.92	
+2025	2025-08-01	delta	lr	assimilated	acadia_bar_harbor	283.54	284.88	285.24	299.69
+2025	2025-08-01	delta	gam	fit	fort_kent	272.65	274.63	275.84	269.19
+2025	2025-08-01	delta	gam	fit	rangeley	274.38	275.38	277.16	
+2025	2025-08-01	delta	gam	fit	acadia_bar_harbor	284.64	286.07	286.77	299.69
+2025	2025-08-01	delta	gam	assimilated	fort_kent	272.65	274.63	275.84	269.19
+2025	2025-08-01	delta	gam	assimilated	rangeley	274.38	275.38	277.16	
+2025	2025-08-01	delta	gam	assimilated	acadia_bar_harbor	284.64	286.07	286.77	299.69
+2025	2025-08-01	linear	lr	fit	fort_kent	276.96	277.87	279.64	269.19
+2025	2025-08-01	linear	lr	fit	rangeley	278.70	280.97	282.00	
+2025	2025-08-01	linear	lr	fit	acadia_bar_harbor	283.33	284.42	285.04	299.69
+2025	2025-08-01	linear	lr	assimilated	fort_kent	276.96	277.87	279.64	269.19
+2025	2025-08-01	linear	lr	assimilated	rangeley	278.70	280.97	282.00	
+2025	2025-08-01	linear	lr	assimilated	acadia_bar_harbor	283.33	284.42	285.04	299.69
+2025	2025-08-01	linear	gam	fit	fort_kent	272.72	274.43	275.85	269.19
+2025	2025-08-01	linear	gam	fit	rangeley	274.13	275.05	276.85	
+2025	2025-08-01	linear	gam	fit	acadia_bar_harbor	284.76	285.44	287.31	299.69
+2025	2025-08-01	linear	gam	assimilated	fort_kent	272.72	274.43	275.85	269.19
+2025	2025-08-01	linear	gam	assimilated	rangeley	274.13	275.05	276.85	
+2025	2025-08-01	linear	gam	assimilated	acadia_bar_harbor	284.76	285.44	287.31	299.69
+2025	2025-08-05	delta	lr	fit	fort_kent	278.41	279.45	280.78	269.19
+2025	2025-08-05	delta	lr	fit	rangeley	279.68	281.12	282.53	
+2025	2025-08-05	delta	lr	fit	acadia_bar_harbor	284.07	285.46	285.98	299.69
+2025	2025-08-05	delta	lr	assimilated	fort_kent	278.43	279.46	280.78	269.19
+2025	2025-08-05	delta	lr	assimilated	rangeley	279.70	281.15	282.55	
+2025	2025-08-05	delta	lr	assimilated	acadia_bar_harbor	284.06	285.44	285.96	299.69
+2025	2025-08-05	delta	gam	fit	fort_kent	273.02	275.20	276.21	269.19
+2025	2025-08-05	delta	gam	fit	rangeley	273.81	276.53	279.21	
+2025	2025-08-05	delta	gam	fit	acadia_bar_harbor	285.62	289.45	291.61	299.69
+2025	2025-08-05	delta	gam	assimilated	fort_kent	273.03	275.20	276.21	269.19
+2025	2025-08-05	delta	gam	assimilated	rangeley	273.83	276.55	279.24	
+2025	2025-08-05	delta	gam	assimilated	acadia_bar_harbor	285.62	289.43	291.61	299.69
+2025	2025-08-05	linear	lr	fit	fort_kent	278.26	279.01	280.13	269.19
+2025	2025-08-05	linear	lr	fit	rangeley	279.73	280.76	281.83	
+2025	2025-08-05	linear	lr	fit	acadia_bar_harbor	284.31	285.32	285.75	299.69
+2025	2025-08-05	linear	lr	assimilated	fort_kent	278.28	279.02	280.14	269.19
+2025	2025-08-05	linear	lr	assimilated	rangeley	279.76	280.80	281.85	
+2025	2025-08-05	linear	lr	assimilated	acadia_bar_harbor	284.31	285.31	285.74	299.69
+2025	2025-08-05	linear	gam	fit	fort_kent	273.12	275.29	276.20	269.19
+2025	2025-08-05	linear	gam	fit	rangeley	273.68	276.33	278.62	
+2025	2025-08-05	linear	gam	fit	acadia_bar_harbor	285.98	290.83	293.11	299.69
+2025	2025-08-05	linear	gam	assimilated	fort_kent	273.12	275.29	276.22	269.19
+2025	2025-08-05	linear	gam	assimilated	rangeley	273.70	276.36	278.65	
+2025	2025-08-05	linear	gam	assimilated	acadia_bar_harbor	285.97	290.83	293.11	299.69
+2025	2025-08-13	delta	lr	fit	fort_kent	277.04	278.69	280.32	269.19
+2025	2025-08-13	delta	lr	fit	rangeley	279.01	280.98	281.87	
+2025	2025-08-13	delta	lr	fit	acadia_bar_harbor	283.98	284.69	285.66	299.69
+2025	2025-08-13	delta	lr	assimilated	fort_kent	277.01	278.78	280.37	269.19
+2025	2025-08-13	delta	lr	assimilated	rangeley	279.17	281.09	281.92	
+2025	2025-08-13	delta	lr	assimilated	acadia_bar_harbor	284.12	284.74	285.75	299.69
+2025	2025-08-13	delta	gam	fit	fort_kent	270.31	272.45	274.27	269.19
+2025	2025-08-13	delta	gam	fit	rangeley	273.33	274.19	276.30	
+2025	2025-08-13	delta	gam	fit	acadia_bar_harbor	290.66	292.84	293.88	299.69
+2025	2025-08-13	delta	gam	assimilated	fort_kent	270.34	272.47	274.28	269.19
+2025	2025-08-13	delta	gam	assimilated	rangeley	273.36	274.22	276.33	
+2025	2025-08-13	delta	gam	assimilated	acadia_bar_harbor	290.59	292.79	293.85	299.69
+2025	2025-08-13	linear	lr	fit	fort_kent	276.79	278.56	279.83	269.19
+2025	2025-08-13	linear	lr	fit	rangeley	279.61	280.80	281.33	
+2025	2025-08-13	linear	lr	fit	acadia_bar_harbor	284.10	284.34	285.23	299.69
+2025	2025-08-13	linear	lr	assimilated	fort_kent	276.79	278.71	279.92	269.19
+2025	2025-08-13	linear	lr	assimilated	rangeley	279.71	280.87	281.39	
+2025	2025-08-13	linear	lr	assimilated	acadia_bar_harbor	284.23	284.44	285.33	299.69
+2025	2025-08-13	linear	gam	fit	fort_kent	270.45	272.48	274.34	269.19
+2025	2025-08-13	linear	gam	fit	rangeley	273.19	273.72	275.81	
+2025	2025-08-13	linear	gam	fit	acadia_bar_harbor	292.46	294.36	295.76	299.69
+2025	2025-08-13	linear	gam	assimilated	fort_kent	270.48	272.49	274.35	269.19
+2025	2025-08-13	linear	gam	assimilated	rangeley	273.22	273.76	275.84	
+2025	2025-08-13	linear	gam	assimilated	acadia_bar_harbor	292.40	294.32	295.72	299.69
+2025	2025-08-21	delta	lr	fit	fort_kent	277.99	278.91	279.88	269.19
+2025	2025-08-21	delta	lr	fit	rangeley	279.61	281.30	282.36	
+2025	2025-08-21	delta	lr	fit	acadia_bar_harbor	283.30	283.92	284.60	299.69
+2025	2025-08-21	delta	lr	assimilated	fort_kent	278.12	278.96	279.91	269.19
+2025	2025-08-21	delta	lr	assimilated	rangeley	279.75	281.34	282.25	
+2025	2025-08-21	delta	lr	assimilated	acadia_bar_harbor	283.38	283.97	284.64	299.69
+2025	2025-08-21	delta	gam	fit	fort_kent	272.50	273.53	275.69	269.19
+2025	2025-08-21	delta	gam	fit	rangeley	273.92	275.06	277.41	
+2025	2025-08-21	delta	gam	fit	acadia_bar_harbor	282.91	283.66	284.50	299.69
+2025	2025-08-21	delta	gam	assimilated	fort_kent	272.52	273.53	275.71	269.19
+2025	2025-08-21	delta	gam	assimilated	rangeley	274.01	275.10	277.46	
+2025	2025-08-21	delta	gam	assimilated	acadia_bar_harbor	282.88	283.61	284.43	299.69
+2025	2025-08-21	linear	lr	fit	fort_kent	278.04	278.56	279.47	269.19
+2025	2025-08-21	linear	lr	fit	rangeley	279.80	281.10	281.45	
+2025	2025-08-21	linear	lr	fit	acadia_bar_harbor	283.29	283.60	284.17	299.69
+2025	2025-08-21	linear	lr	assimilated	fort_kent	278.21	278.63	279.50	269.19
+2025	2025-08-21	linear	lr	assimilated	rangeley	279.85	281.17	281.47	
+2025	2025-08-21	linear	lr	assimilated	acadia_bar_harbor	283.39	283.67	284.25	299.69
+2025	2025-08-21	linear	gam	fit	fort_kent	272.70	273.59	275.65	269.19
+2025	2025-08-21	linear	gam	fit	rangeley	274.04	274.85	276.99	
+2025	2025-08-21	linear	gam	fit	acadia_bar_harbor	282.83	283.71	284.42	299.69
+2025	2025-08-21	linear	gam	assimilated	fort_kent	272.69	273.59	275.66	269.19
+2025	2025-08-21	linear	gam	assimilated	rangeley	274.13	274.89	277.04	
+2025	2025-08-21	linear	gam	assimilated	acadia_bar_harbor	282.75	283.66	284.36	299.69
+2025	2025-08-29	delta	lr	fit	fort_kent	276.99	279.90	280.65	269.19
+2025	2025-08-29	delta	lr	fit	rangeley	278.97	281.72	282.78	
+2025	2025-08-29	delta	lr	fit	acadia_bar_harbor	282.99	284.02	284.61	299.69
+2025	2025-08-29	delta	lr	assimilated	fort_kent	277.18	279.95	280.56	269.19
+2025	2025-08-29	delta	lr	assimilated	rangeley	279.03	281.72	282.87	
+2025	2025-08-29	delta	lr	assimilated	acadia_bar_harbor	283.11	284.10	284.68	299.69
+2025	2025-08-29	delta	gam	fit	fort_kent	271.88	273.14	274.36	269.19
+2025	2025-08-29	delta	gam	fit	rangeley	272.11	273.91	276.01	
+2025	2025-08-29	delta	gam	fit	acadia_bar_harbor	283.26	284.53	286.01	299.69
+2025	2025-08-29	delta	gam	assimilated	fort_kent	271.93	273.13	274.35	269.19
+2025	2025-08-29	delta	gam	assimilated	rangeley	272.21	274.00	276.15	
+2025	2025-08-29	delta	gam	assimilated	acadia_bar_harbor	283.18	284.42	285.95	299.69
+2025	2025-08-29	linear	lr	fit	fort_kent	277.11	279.14	279.88	269.19
+2025	2025-08-29	linear	lr	fit	rangeley	279.17	281.22	282.29	
+2025	2025-08-29	linear	lr	fit	acadia_bar_harbor	282.99	283.77	284.21	299.69
+2025	2025-08-29	linear	lr	assimilated	fort_kent	277.33	279.24	280.05	269.19
+2025	2025-08-29	linear	lr	assimilated	rangeley	279.35	281.28	282.43	
+2025	2025-08-29	linear	lr	assimilated	acadia_bar_harbor	283.15	283.86	284.29	299.69
+2025	2025-08-29	linear	gam	fit	fort_kent	272.12	273.27	274.37	269.19
+2025	2025-08-29	linear	gam	fit	rangeley	272.39	273.93	275.73	
+2025	2025-08-29	linear	gam	fit	acadia_bar_harbor	283.77	285.30	286.48	299.69
+2025	2025-08-29	linear	gam	assimilated	fort_kent	272.14	273.26	274.37	269.19
+2025	2025-08-29	linear	gam	assimilated	rangeley	272.55	274.00	275.86	
+2025	2025-08-29	linear	gam	assimilated	acadia_bar_harbor	283.66	285.21	286.36	299.69
+2025	2025-09-06	delta	lr	fit	fort_kent	277.77	279.17	279.97	269.19
+2025	2025-09-06	delta	lr	fit	rangeley	279.94	281.01	281.92	
+2025	2025-09-06	delta	lr	fit	acadia_bar_harbor	283.96	284.61	284.85	299.69
+2025	2025-09-06	delta	lr	assimilated	fort_kent	277.95	279.16	279.86	269.19
+2025	2025-09-06	delta	lr	assimilated	rangeley	280.06	281.03	281.84	
+2025	2025-09-06	delta	lr	assimilated	acadia_bar_harbor	283.97	284.60	284.90	299.69
+2025	2025-09-06	delta	gam	fit	fort_kent	271.88	272.97	273.88	269.19
+2025	2025-09-06	delta	gam	fit	rangeley	272.48	273.77	275.00	
+2025	2025-09-06	delta	gam	fit	acadia_bar_harbor	283.19	284.74	286.18	299.69
+2025	2025-09-06	delta	gam	assimilated	fort_kent	271.89	273.02	274.03	269.19
+2025	2025-09-06	delta	gam	assimilated	rangeley	272.61	273.87	275.14	
+2025	2025-09-06	delta	gam	assimilated	acadia_bar_harbor	283.24	284.63	285.99	299.69
+2025	2025-09-06	linear	lr	fit	fort_kent	277.79	278.67	279.21	269.19
+2025	2025-09-06	linear	lr	fit	rangeley	279.86	280.66	281.31	
+2025	2025-09-06	linear	lr	fit	acadia_bar_harbor	283.53	284.06	284.49	299.69
+2025	2025-09-06	linear	lr	assimilated	fort_kent	278.00	278.73	279.27	269.19
+2025	2025-09-06	linear	lr	assimilated	rangeley	279.93	280.72	281.30	
+2025	2025-09-06	linear	lr	assimilated	acadia_bar_harbor	283.58	284.13	284.52	299.69
+2025	2025-09-06	linear	gam	fit	fort_kent	272.00	273.01	273.97	269.19
+2025	2025-09-06	linear	gam	fit	rangeley	272.63	273.86	274.93	
+2025	2025-09-06	linear	gam	fit	acadia_bar_harbor	284.32	285.73	287.95	299.69
+2025	2025-09-06	linear	gam	assimilated	fort_kent	272.02	273.05	274.12	269.19
+2025	2025-09-06	linear	gam	assimilated	rangeley	272.76	273.97	275.08	
+2025	2025-09-06	linear	gam	assimilated	acadia_bar_harbor	284.25	285.64	287.72	299.69
+2025	2025-09-14	delta	lr	fit	fort_kent	279.76	280.27	281.06	269.19
+2025	2025-09-14	delta	lr	fit	rangeley	281.30	281.71	282.51	
+2025	2025-09-14	delta	lr	fit	acadia_bar_harbor	283.86	284.45	284.75	299.69
+2025	2025-09-14	delta	lr	assimilated	fort_kent	279.91	280.30	281.14	269.19
+2025	2025-09-14	delta	lr	assimilated	rangeley	281.33	281.87	282.75	
+2025	2025-09-14	delta	lr	assimilated	acadia_bar_harbor	283.96	284.54	284.82	299.69
+2025	2025-09-14	delta	gam	fit	fort_kent	272.65	273.83	274.26	269.19
+2025	2025-09-14	delta	gam	fit	rangeley	274.02	275.35	276.19	
+2025	2025-09-14	delta	gam	fit	acadia_bar_harbor	283.80	284.86	286.25	299.69
+2025	2025-09-14	delta	gam	assimilated	fort_kent	272.74	273.94	274.40	269.19
+2025	2025-09-14	delta	gam	assimilated	rangeley	274.32	275.44	276.39	
+2025	2025-09-14	delta	gam	assimilated	acadia_bar_harbor	283.99	284.81	286.18	299.69
+2025	2025-09-14	linear	lr	fit	fort_kent	279.44	280.05	280.80	269.19
+2025	2025-09-14	linear	lr	fit	rangeley	281.12	281.65	282.34	
+2025	2025-09-14	linear	lr	fit	acadia_bar_harbor	283.75	284.09	284.34	299.69
+2025	2025-09-14	linear	lr	assimilated	fort_kent	279.45	280.15	280.96	269.19
+2025	2025-09-14	linear	lr	assimilated	rangeley	281.19	281.78	282.58	
+2025	2025-09-14	linear	lr	assimilated	acadia_bar_harbor	283.87	284.22	284.44	299.69
+2025	2025-09-14	linear	gam	fit	fort_kent	272.70	273.83	274.36	269.19
+2025	2025-09-14	linear	gam	fit	rangeley	274.23	275.22	276.10	
+2025	2025-09-14	linear	gam	fit	acadia_bar_harbor	285.29	286.18	289.36	299.69
+2025	2025-09-14	linear	gam	assimilated	fort_kent	272.79	273.96	274.49	269.19
+2025	2025-09-14	linear	gam	assimilated	rangeley	274.50	275.39	276.27	
+2025	2025-09-14	linear	gam	assimilated	acadia_bar_harbor	285.23	286.24	289.10	299.69
+2025	2025-09-22	delta	lr	fit	fort_kent	280.68	280.91	281.87	269.19
+2025	2025-09-22	delta	lr	fit	rangeley	281.53	282.21	282.57	
+2025	2025-09-22	delta	lr	fit	acadia_bar_harbor	284.74	284.94	285.47	299.69
+2025	2025-09-22	delta	lr	assimilated	fort_kent	280.73	280.89	281.87	269.19
+2025	2025-09-22	delta	lr	assimilated	rangeley	281.64	282.32	282.70	
+2025	2025-09-22	delta	lr	assimilated	acadia_bar_harbor	284.84	285.02	285.52	299.69
+2025	2025-09-22	delta	gam	fit	fort_kent	272.16	272.47	272.68	269.19
+2025	2025-09-22	delta	gam	fit	rangeley	273.60	273.90	274.70	
+2025	2025-09-22	delta	gam	fit	acadia_bar_harbor	281.88	283.96	285.40	299.69
+2025	2025-09-22	delta	gam	assimilated	fort_kent	272.39	272.68	272.89	269.19
+2025	2025-09-22	delta	gam	assimilated	rangeley	273.87	274.17	274.95	
+2025	2025-09-22	delta	gam	assimilated	acadia_bar_harbor	282.52	283.98	285.37	299.69
+2025	2025-09-22	linear	lr	fit	fort_kent	280.44	280.57	281.39	269.19
+2025	2025-09-22	linear	lr	fit	rangeley	281.49	282.01	282.43	
+2025	2025-09-22	linear	lr	fit	acadia_bar_harbor	284.59	284.70	284.99	299.69
+2025	2025-09-22	linear	lr	assimilated	fort_kent	280.44	280.61	281.44	269.19
+2025	2025-09-22	linear	lr	assimilated	rangeley	281.63	282.15	282.60	
+2025	2025-09-22	linear	lr	assimilated	acadia_bar_harbor	284.70	284.81	285.07	299.69
+2025	2025-09-22	linear	gam	fit	fort_kent	272.23	272.54	272.73	269.19
+2025	2025-09-22	linear	gam	fit	rangeley	273.62	273.88	274.61	
+2025	2025-09-22	linear	gam	fit	acadia_bar_harbor	283.67	285.01	287.67	299.69
+2025	2025-09-22	linear	gam	assimilated	fort_kent	272.46	272.73	272.94	269.19
+2025	2025-09-22	linear	gam	assimilated	rangeley	273.88	274.11	274.85	
+2025	2025-09-22	linear	gam	assimilated	acadia_bar_harbor	284.11	285.02	287.70	299.69
+2025	2025-09-30	delta	lr	fit	fort_kent	280.94	281.18	281.52	269.19
+2025	2025-09-30	delta	lr	fit	rangeley	282.03	282.26	282.46	
+2025	2025-09-30	delta	lr	fit	acadia_bar_harbor	285.35	285.49	285.68	299.69
+2025	2025-09-30	delta	lr	assimilated	fort_kent	280.93	281.20	281.53	269.19
+2025	2025-09-30	delta	lr	assimilated	rangeley	282.05	282.28	282.50	
+2025	2025-09-30	delta	lr	assimilated	acadia_bar_harbor	285.39	285.52	285.71	299.69
+2025	2025-09-30	delta	gam	fit	fort_kent	272.62	272.64	272.65	269.19
+2025	2025-09-30	delta	gam	fit	rangeley	274.19	274.22	274.27	
+2025	2025-09-30	delta	gam	fit	acadia_bar_harbor	283.89	284.26	285.11	299.69
+2025	2025-09-30	delta	gam	assimilated	fort_kent	272.83	272.85	272.87	269.19
+2025	2025-09-30	delta	gam	assimilated	rangeley	274.32	274.35	274.40	
+2025	2025-09-30	delta	gam	assimilated	acadia_bar_harbor	284.15	284.47	285.08	299.69
+2025	2025-09-30	linear	lr	fit	fort_kent	280.77	281.06	281.24	269.19
+2025	2025-09-30	linear	lr	fit	rangeley	281.82	281.96	282.14	
+2025	2025-09-30	linear	lr	fit	acadia_bar_harbor	285.08	285.14	285.28	299.69
+2025	2025-09-30	linear	lr	assimilated	fort_kent	280.81	281.10	281.29	269.19
+2025	2025-09-30	linear	lr	assimilated	rangeley	281.88	282.01	282.21	
+2025	2025-09-30	linear	lr	assimilated	acadia_bar_harbor	285.13	285.20	285.34	299.69
+2025	2025-09-30	linear	gam	fit	fort_kent	272.64	272.65	272.66	269.19
+2025	2025-09-30	linear	gam	fit	rangeley	274.26	274.29	274.33	
+2025	2025-09-30	linear	gam	fit	acadia_bar_harbor	285.24	285.67	286.23	299.69
+2025	2025-09-30	linear	gam	assimilated	fort_kent	272.85	272.87	272.88	269.19
+2025	2025-09-30	linear	gam	assimilated	rangeley	274.39	274.42	274.46	
+2025	2025-09-30	linear	gam	assimilated	acadia_bar_harbor	285.35	285.74	286.29	299.69
+2025	2025-10-08	delta	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	delta	lr	fit	rangeley	281.92	281.94	281.98	
+2025	2025-10-08	delta	lr	fit	acadia_bar_harbor	284.96	285.11	285.24	299.69
+2025	2025-10-08	delta	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	delta	lr	assimilated	rangeley	281.81	281.83	281.86	
+2025	2025-10-08	delta	lr	assimilated	acadia_bar_harbor	284.87	285.04	285.14	299.69
+2025	2025-10-08	delta	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	delta	gam	fit	rangeley	276.74	276.79	276.83	
+2025	2025-10-08	delta	gam	fit	acadia_bar_harbor	284.69	284.85	285.70	299.69
+2025	2025-10-08	delta	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	delta	gam	assimilated	rangeley	276.47	276.54	276.57	
+2025	2025-10-08	delta	gam	assimilated	acadia_bar_harbor	284.59	284.69	285.52	299.69
+2025	2025-10-08	linear	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	linear	lr	fit	rangeley	281.96	281.98	282.01	
+2025	2025-10-08	linear	lr	fit	acadia_bar_harbor	284.89	285.09	285.15	299.69
+2025	2025-10-08	linear	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	linear	lr	assimilated	rangeley	281.84	281.86	281.90	
+2025	2025-10-08	linear	lr	assimilated	acadia_bar_harbor	284.81	285.02	285.06	299.69
+2025	2025-10-08	linear	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	linear	gam	fit	rangeley	276.72	276.77	276.79	
+2025	2025-10-08	linear	gam	fit	acadia_bar_harbor	284.87	284.95	285.78	299.69
+2025	2025-10-08	linear	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-08	linear	gam	assimilated	rangeley	276.45	276.50	276.53	
+2025	2025-10-08	linear	gam	assimilated	acadia_bar_harbor	284.76	284.81	285.64	299.69
+2025	2025-10-16	delta	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	delta	lr	fit	rangeley	283.74	283.78	283.81	
+2025	2025-10-16	delta	lr	fit	acadia_bar_harbor	287.82	287.83	287.84	299.69
+2025	2025-10-16	delta	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	delta	lr	assimilated	rangeley	283.70	283.73	283.75	
+2025	2025-10-16	delta	lr	assimilated	acadia_bar_harbor	287.81	287.81	287.82	299.69
+2025	2025-10-16	delta	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	delta	gam	fit	rangeley	279.14	279.14	279.16	
+2025	2025-10-16	delta	gam	fit	acadia_bar_harbor	287.99	288.00	288.03	299.69
+2025	2025-10-16	delta	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	delta	gam	assimilated	rangeley	279.17	279.18	279.20	
+2025	2025-10-16	delta	gam	assimilated	acadia_bar_harbor	288.05	288.06	288.07	299.69
+2025	2025-10-16	linear	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	linear	lr	fit	rangeley	283.79	283.81	283.83	
+2025	2025-10-16	linear	lr	fit	acadia_bar_harbor	287.84	287.85	287.85	299.69
+2025	2025-10-16	linear	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	linear	lr	assimilated	rangeley	283.74	283.76	283.77	
+2025	2025-10-16	linear	lr	assimilated	acadia_bar_harbor	287.83	287.83	287.83	299.69
+2025	2025-10-16	linear	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	linear	gam	fit	rangeley	279.14	279.14	279.15	
+2025	2025-10-16	linear	gam	fit	acadia_bar_harbor	287.99	288.00	288.01	299.69
+2025	2025-10-16	linear	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-16	linear	gam	assimilated	rangeley	279.17	279.17	279.19	
+2025	2025-10-16	linear	gam	assimilated	acadia_bar_harbor	288.05	288.06	288.06	299.69
+2025	2025-10-24	delta	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	delta	lr	fit	rangeley	286.19	286.22	286.24	
+2025	2025-10-24	delta	lr	fit	acadia_bar_harbor	294.16	294.17	294.17	299.69
+2025	2025-10-24	delta	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	delta	lr	assimilated	rangeley	286.16	286.19	286.20	
+2025	2025-10-24	delta	lr	assimilated	acadia_bar_harbor	294.15	294.15	294.16	299.69
+2025	2025-10-24	delta	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	delta	gam	fit	rangeley	282.54	282.58	282.61	
+2025	2025-10-24	delta	gam	fit	acadia_bar_harbor	293.77	293.77	293.78	299.69
+2025	2025-10-24	delta	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	delta	gam	assimilated	rangeley	282.56	282.60	282.63	
+2025	2025-10-24	delta	gam	assimilated	acadia_bar_harbor	293.78	293.79	293.80	299.69
+2025	2025-10-24	linear	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	linear	lr	fit	rangeley	286.22	286.23	286.24	
+2025	2025-10-24	linear	lr	fit	acadia_bar_harbor	294.16	294.16	294.16	299.69
+2025	2025-10-24	linear	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	linear	lr	assimilated	rangeley	286.18	286.19	286.20	
+2025	2025-10-24	linear	lr	assimilated	acadia_bar_harbor	294.15	294.15	294.15	299.69
+2025	2025-10-24	linear	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	linear	gam	fit	rangeley	282.54	282.57	282.58	
+2025	2025-10-24	linear	gam	fit	acadia_bar_harbor	293.79	293.80	293.81	299.69
+2025	2025-10-24	linear	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-10-24	linear	gam	assimilated	rangeley	282.57	282.59	282.60	
+2025	2025-10-24	linear	gam	assimilated	acadia_bar_harbor	293.80	293.81	293.82	299.69
+2025	2025-11-01	delta	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	delta	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	delta	lr	fit	acadia_bar_harbor	297.01	297.02	297.02	299.69
+2025	2025-11-01	delta	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	delta	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	delta	lr	assimilated	acadia_bar_harbor	297.00	297.00	297.01	299.69
+2025	2025-11-01	delta	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	delta	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	delta	gam	fit	acadia_bar_harbor	297.00	297.01	297.02	299.69
+2025	2025-11-01	delta	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	delta	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	delta	gam	assimilated	acadia_bar_harbor	296.95	296.95	296.97	299.69
+2025	2025-11-01	linear	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	linear	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	linear	lr	fit	acadia_bar_harbor	297.01	297.01	297.02	299.69
+2025	2025-11-01	linear	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	linear	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	linear	lr	assimilated	acadia_bar_harbor	297.00	297.00	297.00	299.69
+2025	2025-11-01	linear	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	linear	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	linear	gam	fit	acadia_bar_harbor	297.02	297.02	297.03	299.69
+2025	2025-11-01	linear	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-01	linear	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-01	linear	gam	assimilated	acadia_bar_harbor	296.96	296.97	296.97	299.69
+2025	2025-11-09	delta	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	delta	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	delta	lr	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-09	delta	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	delta	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	delta	lr	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-09	delta	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	delta	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	delta	gam	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-09	delta	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	delta	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	delta	gam	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-09	linear	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	linear	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	linear	lr	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-09	linear	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	linear	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	linear	lr	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-09	linear	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	linear	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	linear	gam	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-09	linear	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-09	linear	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-09	linear	gam	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	delta	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	delta	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	delta	lr	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	delta	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	delta	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	delta	lr	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	delta	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	delta	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	delta	gam	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	delta	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	delta	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	delta	gam	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	linear	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	linear	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	linear	lr	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	linear	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	linear	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	linear	lr	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	linear	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	linear	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	linear	gam	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-17	linear	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-17	linear	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-17	linear	gam	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	delta	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	delta	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	delta	lr	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	delta	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	delta	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	delta	lr	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	delta	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	delta	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	delta	gam	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	delta	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	delta	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	delta	gam	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	linear	lr	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	linear	lr	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	linear	lr	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	linear	lr	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	linear	lr	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	linear	lr	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	linear	gam	fit	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	linear	gam	fit	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	linear	gam	fit	acadia_bar_harbor	299.69	299.69	299.69	299.69
+2025	2025-11-25	linear	gam	assimilated	fort_kent	269.19	269.19	269.19	269.19
+2025	2025-11-25	linear	gam	assimilated	rangeley	290.05	290.05	290.05	
+2025	2025-11-25	linear	gam	assimilated	acadia_bar_harbor	299.69	299.69	299.69	299.69

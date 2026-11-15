@@ -1,0 +1,87 @@
+quantity	value	source
+grid_cells	84001	data/processed/preprocessing_summary.tsv
+forest_cells_threshold_0.3	70007	data/processed/preprocessing_summary.tsv
+forest_cells_threshold_0.5	55284	data/processed/preprocessing_summary.tsv
+forest_cells_threshold_0.7	35490	data/processed/preprocessing_summary.tsv
+forest_cells	55284	data/processed/preprocessing_summary.tsv
+ul_valid_cells	55109	data/processed/preprocessing_summary.tsv
+ul_valid_cells_if_min_L_years_3	55186	data/processed/preprocessing_summary.tsv
+ul_valid_cells_if_min_L_years_10	54400	data/processed/preprocessing_summary.tsv
+onset_undefined_2001	148	phenology_dates.npz onset_doy
+onset_never_2001	137	phenology_dates.npz counts
+onset_above_at_first_2001	11	phenology_dates.npz counts
+onset_undefined_2002	1330	phenology_dates.npz onset_doy
+onset_never_2002	1318	phenology_dates.npz counts
+onset_above_at_first_2002	12	phenology_dates.npz counts
+onset_undefined_2003	285	phenology_dates.npz onset_doy
+onset_never_2003	258	phenology_dates.npz counts
+onset_above_at_first_2003	27	phenology_dates.npz counts
+onset_undefined_2004	161	phenology_dates.npz onset_doy
+onset_never_2004	144	phenology_dates.npz counts
+onset_above_at_first_2004	17	phenology_dates.npz counts
+onset_undefined_2005	2871	phenology_dates.npz onset_doy
+onset_never_2005	2855	phenology_dates.npz counts
+onset_above_at_first_2005	16	phenology_dates.npz counts
+onset_undefined_2006	160	phenology_dates.npz onset_doy
+onset_never_2006	125	phenology_dates.npz counts
+onset_above_at_first_2006	35	phenology_dates.npz counts
+onset_undefined_2007	189	phenology_dates.npz onset_doy
+onset_never_2007	180	phenology_dates.npz counts
+onset_above_at_first_2007	9	phenology_dates.npz counts
+onset_undefined_2008	224	phenology_dates.npz onset_doy
+onset_never_2008	203	phenology_dates.npz counts
+onset_above_at_first_2008	21	phenology_dates.npz counts
+onset_undefined_2009	175	phenology_dates.npz onset_doy
+onset_never_2009	169	phenology_dates.npz counts
+onset_above_at_first_2009	6	phenology_dates.npz counts
+onset_undefined_2010	249	phenology_dates.npz onset_doy
+onset_never_2010	230	phenology_dates.npz counts
+onset_above_at_first_2010	19	phenology_dates.npz counts
+onset_undefined_2011	114	phenology_dates.npz onset_doy
+onset_never_2011	95	phenology_dates.npz counts
+onset_above_at_first_2011	19	phenology_dates.npz counts
+onset_undefined_2012	134	phenology_dates.npz onset_doy
+onset_never_2012	119	phenology_dates.npz counts
+onset_above_at_first_2012	15	phenology_dates.npz counts
+onset_undefined_2013	163	phenology_dates.npz onset_doy
+onset_never_2013	136	phenology_dates.npz counts
+onset_above_at_first_2013	27	phenology_dates.npz counts
+onset_undefined_2014	1960	phenology_dates.npz onset_doy
+onset_never_2014	1951	phenology_dates.npz counts
+onset_above_at_first_2014	9	phenology_dates.npz counts
+onset_undefined_2015	120	phenology_dates.npz onset_doy
+onset_never_2015	112	phenology_dates.npz counts
+onset_above_at_first_2015	8	phenology_dates.npz counts
+onset_undefined_2016	775	phenology_dates.npz onset_doy
+onset_never_2016	768	phenology_dates.npz counts
+onset_above_at_first_2016	7	phenology_dates.npz counts
+onset_undefined_2017	138	phenology_dates.npz onset_doy
+onset_never_2017	128	phenology_dates.npz counts
+onset_above_at_first_2017	10	phenology_dates.npz counts
+onset_undefined_2018	14214	phenology_dates.npz onset_doy
+onset_never_2018	14204	phenology_dates.npz counts
+onset_above_at_first_2018	10	phenology_dates.npz counts
+onset_undefined_2019	464	phenology_dates.npz onset_doy
+onset_never_2019	448	phenology_dates.npz counts
+onset_above_at_first_2019	16	phenology_dates.npz counts
+onset_undefined_2020	193	phenology_dates.npz onset_doy
+onset_never_2020	170	phenology_dates.npz counts
+onset_above_at_first_2020	23	phenology_dates.npz counts
+onset_undefined_2021	117	phenology_dates.npz onset_doy
+onset_never_2021	98	phenology_dates.npz counts
+onset_above_at_first_2021	19	phenology_dates.npz counts
+onset_undefined_2022	250	phenology_dates.npz onset_doy
+onset_never_2022	228	phenology_dates.npz counts
+onset_above_at_first_2022	22	phenology_dates.npz counts
+onset_undefined_2023	1001	phenology_dates.npz onset_doy
+onset_never_2023	958	phenology_dates.npz counts
+onset_above_at_first_2023	43	phenology_dates.npz counts
+onset_undefined_2024	229	phenology_dates.npz onset_doy
+onset_never_2024	213	phenology_dates.npz counts
+onset_above_at_first_2024	16	phenology_dates.npz counts
+onset_undefined_2025	1339	phenology_dates.npz onset_doy
+onset_never_2025	1325	phenology_dates.npz counts
+onset_above_at_first_2025	14	phenology_dates.npz counts
+onset_undefined_2026	4759	phenology_dates.npz onset_doy
+onset_never_2026	4745	phenology_dates.npz counts
+onset_above_at_first_2026	14	phenology_dates.npz counts
