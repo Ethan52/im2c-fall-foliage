@@ -1,0 +1,5 @@
+year	year_role	cells	model	onset_bias_days	onset_mae_days	n_cells_scored	brownness_rmse	n_brownness_obs
+2024	test	test	lr	3.5261	7.1391	10968	0.1792	127516
+2024	test	train	lr	3.6241	7.1897	43910	0.1795	508921
+2024	test	test	gam	1.0889	6.2150	10968	0.1775	127516
+2024	test	train	gam	1.1394	6.2075	43910	0.1776	508921

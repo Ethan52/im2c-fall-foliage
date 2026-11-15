@@ -1,0 +1,4 @@
+site	forecast_median_doy	forecast_median_date	window_start	window_end	ensemble_p10_doy	ensemble_p90_doy	observed_onset_doy	observed_date	observed_in_window	interval_offsets_days	coverage_2026_calibrated	coverage_2026_ensemble
+fort_kent	274.22	2026-10-01	2026-09-22	2026-10-08	272.99	275.21	275.10	2026-10-02	True	-9.4 to +7.2	0.74	0.06
+rangeley	274.77	2026-10-02	2026-09-22	2026-10-09	273.78	276.27	287.37	2026-10-14	False	-9.4 to +7.2	0.74	0.06
+acadia_bar_harbor	287.43	2026-10-14	2026-10-05	2026-10-22	285.68	287.82	293.44	2026-10-20	True	-9.4 to +7.2	0.74	0.06

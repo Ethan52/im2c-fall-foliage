@@ -11,3 +11,7 @@ matplotlib
 scikit-learn
 statsmodels
 jupyter
+requests
+scipy
+shapely
+pyproj

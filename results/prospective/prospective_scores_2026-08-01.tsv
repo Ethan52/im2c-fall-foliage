@@ -1,0 +1,9 @@
+year	issue_date	mapping	model	variant	onset_bias_days	onset_mae_days	n_cells_scored	n_no_forecast_onset_by_season_end	brownness_rmse_after_issue	n_brownness_obs
+2026	2026-08-01	delta	lr	fit	-0.3019	5.6277	50350	0	0.2285	647634
+2026	2026-08-01	delta	lr	assimilated	-0.3019	5.6277	50350	0	0.2285	647634
+2026	2026-08-01	delta	gam	fit	-2.4637	5.8176	50350	0	0.2121	647634
+2026	2026-08-01	delta	gam	assimilated	-2.4637	5.8176	50350	0	0.2121	647634
+2026	2026-08-01	linear	lr	fit	-0.4709	5.6789	50350	0	0.2301	647634
+2026	2026-08-01	linear	lr	assimilated	-0.4709	5.6789	50350	0	0.2301	647634
+2026	2026-08-01	linear	gam	fit	-2.6429	5.8651	50350	0	0.2125	647634
+2026	2026-08-01	linear	gam	assimilated	-2.6429	5.8651	50350	0	0.2125	647634

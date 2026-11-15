@@ -1,0 +1,15 @@
+term	coefficient
+intercept	3.69436
+T60	-0.0404436
+P60	-4.34082e-05
+R30	-0.0147641
+CDD	-0.000663872
+GSI	-0.119616
+greenup	0.000852605
+S	-0.18809
+h	1.25512e-05
+Z_hardwood	-0.156821
+Z_red_maple	0.0370501
+Z_sugar_maple	0.0889448
+Z_birch	0.0989675
+Z_aspen	0.143616

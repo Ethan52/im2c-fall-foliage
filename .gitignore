@@ -220,14 +220,15 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Large downloaded/geospatial data
-data/raw/
-data/interim/
-data/processed/
+data/raw/*
+data/interim/*
+data/processed/*
 *.tif
 *.tiff
 *.hdf
 *.nc
 *.zip
+.netrc
 
 # Local files
 .env
@@ -238,3 +239,10 @@ __pycache__/
 # Generated model artifacts
 *.pkl
 *.joblib
+
+# Agents
+references/
+
+# SLURM logs and results
+slurm_output/
+figures/
